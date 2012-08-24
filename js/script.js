@@ -1,8 +1,1 @@
-/* Author:
-
-*/
-
-
-
-
-
+location.href = 'http://brandnetworksinc.com/'
