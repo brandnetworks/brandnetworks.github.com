@@ -1,1 +1,1 @@
-location.href = 'http://brandnetworksinc.com/'
+location.href = 'http://bn.co/'
